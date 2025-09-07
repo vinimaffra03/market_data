@@ -21,4 +21,4 @@ def create_json ():
 
     print("✅ market_data.json created !!!")  
 
-#criar_json()
+#create_json()

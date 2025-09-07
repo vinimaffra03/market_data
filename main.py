@@ -1,5 +1,6 @@
 from crypto_utils import coingecko_data
 import json
+import pandas as pd
 
 market_data = coingecko_data()
 
